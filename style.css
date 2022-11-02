@@ -54,12 +54,21 @@ p {
   background: #ffffff;
   padding: 40px;
   text-align: right;
+  position: relative;
+  display: grid;
+  gap: 20px;
+  align-content: center;
+  align-items: end;
+  
 }
 
 .detalhe {
   width: 60px;
   height: 4px;
   background: #ee2211;
+  position: absolute;
+  top: 30px;
+  right: -30px;
 }
 
 .botao {
@@ -68,4 +77,37 @@ p {
   border-radius: 4px;
   text-transform: uppercase;
   color: #ffffff;
+}
+
+.subtitulo {
+  font-size: 64px;
+  text-transform: uppercase;
+  color:  #cccccc;
+  text-align: right;
+  padding: 40px;
+  align-self: center;
+}
+
+.vantagens {
+  background: #ffffff;
+  padding: 40px;
+}
+
+.vantagens-itens {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px 20px;
+  padding: 20px;
+}
+
+.vantagens-itens p {
+  grid-column: 2;
+}
+
+.rodape {
+  background: #ffffff;
+  width: 100%;
+  text-align: center;
+  padding: 40px;
+  box-sizing: border-box;
 }
