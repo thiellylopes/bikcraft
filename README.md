@@ -4,7 +4,7 @@
 Primeiro protótipo do site de vendas de bicicletas, Bikcraft. O desenvolvimento desse projeto faz parte do curso da Origamid, terceiro exercício do módulo CSS básico.
 
 ⚙️ Tecnologias usadas:
-- HTM
+- HTML
 - CSS
 
 🛠️ Futuras alterações:
