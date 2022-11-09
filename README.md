@@ -10,6 +10,7 @@ Primeiro protótipo do site de vendas de bicicletas, Bikcraft. O desenvolvimento
 ⛓ Atualizações:
 - Semântica
 - Efeitos hover
+- Backgrounds em SVG
 
 🛠️ Futuras alterações:
 - Responsividade
