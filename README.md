@@ -7,5 +7,9 @@ Primeiro protótipo do site de vendas de bicicletas, Bikcraft. O desenvolvimento
 - HTML
 - CSS
 
+⛓ Atualizações:
+- Semântica
+- Efeitos hover
+
 🛠️ Futuras alterações:
 - Responsividade
